@@ -18,80 +18,53 @@
 And beat it in our game as we can't beat AI in coding and it memes and troll our pics using voice]
 
 ### The Problem (that doesn't exist)
-[[MESSING WITH AI BECAUSE IT'S TAKING OUR JOB]]
+[MESSING WITH AI BECAUSE IT'S TAKING OUR JOB]
 
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+he Solution (that nobody asked for)
+[TRASH TAKING WITH AI ,TROLLING EACH OTHER]
 
-## Technical Details
-### Technologies/Components Used
+Technical Details
+Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
+[Languages used] - DART , PYTHON , KOTLIN XML YAML
+[Frameworks used] - FLUTTER FIREBBASE GEMINI
+[Libraries used] FLASK HTTP, FLASH CORS
+[Tools used] FIREBASE 3D MODEL MISHY
+Project Documentation
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+*![WhatsApp Image 2025-08-02 at 07 54 05_205f6b27](https://github.com/user-attachments/assets/174346a3-300b-4568-918d-f503532cbf22)
+
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
+![WhatsApp Image 2025-08-02 at 07 54 05_b20cf6ae](https://github.com/user-attachments/assets/d133ef11-6cea-4e35-bd40-518d45e94b0d)
+
 
 ![Screenshot3](Add screenshot 3 here with proper name)
+![WhatsApp Image 2025-08-02 at 07 54 05_38b6c789](https://github.com/user-attachments/assets/b224770d-40b8-4311-9c12-045f4ab9c2db)
+
 *Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
 
-![Final](Add photo of final product here)
-*Explain the final build*
+
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/drive/folders/1hGwQbFK1qlW6oeMtpXVSbSDcG5iYNXx4
 
-# Additional Demos
-[Add any extra demo materials/links]
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Deva Nandh]: [Flutter,Http Request,Backend,3d_Model]
+- [Ajas]: [Flask,Firebase,Gemini,]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
